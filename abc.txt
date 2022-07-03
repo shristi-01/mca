@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 have a good day
+=======
+hiee have a good day
+>>>>>>> c2f37878476f848c9af391ad3c115d6c1c95d7fd
